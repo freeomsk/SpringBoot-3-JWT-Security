@@ -28,4 +28,8 @@
 * Соберите проект: mvn clean install
 * Запустите проект: mvn spring-boot:run
 
--> Приложение будет доступно по адресу http://localhost:8080.
+## API
+
+* Демонстрационный доступ - http://localhost:8080/api/v1/demo
+* Регистрация пользователя - http://localhost:8080/api/v1/register
+* Аутентификация пользователя - http://localhost:8080/api/v1/authenticate
