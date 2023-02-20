@@ -22,8 +22,8 @@
 
 Чтобы построить и запустить проект, выполните следующие действия:
 
-* В файле application.yml замените username и password на свои для доступа к базе данных PostgresSQL  
 * Клонируйте репозиторий: git clone https://github.com/freeomsk/SpringBoot-3-JWT-Security.git
+* В файле application.yml замените username и password на свои для доступа к базе данных PostgresSQL
 * Перейдите в каталог проекта: cd spring-boot-security-jwt
 * Соберите проект: mvn clean install
 * Запустите проект: mvn spring-boot:run
