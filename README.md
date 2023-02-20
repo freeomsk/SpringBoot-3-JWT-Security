@@ -31,5 +31,5 @@
 ## API
 
 * Демонстрационный доступ - http://localhost:8080/api/v1/demo
-* Регистрация пользователя - http://localhost:8080/api/v1/register
-* Аутентификация пользователя - http://localhost:8080/api/v1/authenticate
+* Регистрация пользователя - http://localhost:8080/api/v1/auth/register
+* Аутентификация пользователя - http://localhost:8080/api/v1/auth/authenticate
